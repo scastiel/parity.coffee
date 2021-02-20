@@ -33,6 +33,12 @@ export default function Home() {
           href="https://fonts.googleapis.com/css2?family=Berkshire+Swash&amp;display=swap"
           rel="stylesheet"
         />
+        <script
+          async
+          defer
+          data-domain="parity.coffee"
+          src="https://plausible.io/js/plausible.js"
+        ></script>
       </Head>
       <div className="min-w-screen min-h-screen p-4 bg-green-700 flex flex-col space-y-4 justify-center items-center">
         <div className="bg-white rounded-xl shadow-xl flex flex-col lg:flex-row">
